@@ -1,2 +1,3 @@
 # Burger-Tailwind-CSS
-burger-tailwind-css.netlify.app
+https://burger-tailwind-css.netlify.app/
+This website is on Tailwind CSS
